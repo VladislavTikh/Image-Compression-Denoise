@@ -3,7 +3,7 @@
 - Image compression with FFT
 - Image denoise using DCT (salt and pepper artificial noise)
 
-##Dependenices
+## Dependenices
 - numpy
 - skimage.util
 - PIL
